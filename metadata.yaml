@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8442'
     url: http://www.gutenberg.org/2009/agents/8442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19065#Swimming-Scientifically-Taught--A-Practical-Manual-for-Young-and-Old
 gutenberg_issued: '2006-08-16'
 gutenberg_type: Text
 identifiers:
