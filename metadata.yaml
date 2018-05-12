@@ -1,0 +1,27 @@
+_repo: Swimming-Scientifically-Taught--A-Practical-Manual-for-Young-and-Old_19065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dalton, Frank Eugen
+    gutenberg_agent_id: '8441'
+    url: http://www.gutenberg.org/2009/agents/8441
+  - agent_name: Dalton, Louis C.
+    gutenberg_agent_id: '8442'
+    url: http://www.gutenberg.org/2009/agents/8442
+description: ''
+gutenberg_issued: '2006-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swimming'
+- !lcc 'GV'
+title: 'Swimming Scientifically Taught: A Practical Manual for Young and Old'
+url: http://www.gutenberg.org/ebooks/19065
